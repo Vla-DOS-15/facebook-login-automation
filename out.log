@@ -1,0 +1,52 @@
+2024-12-27 10:54:19,793 - The login site is open
+2024-12-27 10:54:19,979 - Login data entered
+2024-12-27 10:54:20,046 - The login button is clicked
+2024-12-27 10:54:30,531 - An error occurred while downloading the profile picture: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77C1AFB05+28789]
+	(No symbol) [0x00007FF77C1186E0]
+	(No symbol) [0x00007FF77BFB592A]
+	(No symbol) [0x00007FF77C00930E]
+	(No symbol) [0x00007FF77C0095FC]
+	(No symbol) [0x00007FF77C0528A7]
+	(No symbol) [0x00007FF77C02F47F]
+	(No symbol) [0x00007FF77C04F654]
+	(No symbol) [0x00007FF77C02F1E3]
+	(No symbol) [0x00007FF77BFFA938]
+	(No symbol) [0x00007FF77BFFBAA1]
+	GetHandleVerifier [0x00007FF77C4E933D+3410093]
+	GetHandleVerifier [0x00007FF77C4FE7DD+3497293]
+	GetHandleVerifier [0x00007FF77C4F2A73+3448803]
+	GetHandleVerifier [0x00007FF77C277BBB+848171]
+	(No symbol) [0x00007FF77C123C3F]
+	(No symbol) [0x00007FF77C11F6E4]
+	(No symbol) [0x00007FF77C11F87D]
+	(No symbol) [0x00007FF77C10ED49]
+	BaseThreadInitThunk [0x00007FFC61E6DBE7+23]
+	RtlUserThreadStart [0x00007FFC63285A4C+44]
+
+2024-12-27 10:54:30,531 - An unexpected error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77C1AFB05+28789]
+	(No symbol) [0x00007FF77C1186E0]
+	(No symbol) [0x00007FF77BFB592A]
+	(No symbol) [0x00007FF77C00930E]
+	(No symbol) [0x00007FF77C0095FC]
+	(No symbol) [0x00007FF77C0528A7]
+	(No symbol) [0x00007FF77C02F47F]
+	(No symbol) [0x00007FF77C04F654]
+	(No symbol) [0x00007FF77C02F1E3]
+	(No symbol) [0x00007FF77BFFA938]
+	(No symbol) [0x00007FF77BFFBAA1]
+	GetHandleVerifier [0x00007FF77C4E933D+3410093]
+	GetHandleVerifier [0x00007FF77C4FE7DD+3497293]
+	GetHandleVerifier [0x00007FF77C4F2A73+3448803]
+	GetHandleVerifier [0x00007FF77C277BBB+848171]
+	(No symbol) [0x00007FF77C123C3F]
+	(No symbol) [0x00007FF77C11F6E4]
+	(No symbol) [0x00007FF77C11F87D]
+	(No symbol) [0x00007FF77C10ED49]
+	BaseThreadInitThunk [0x00007FFC61E6DBE7+23]
+	RtlUserThreadStart [0x00007FFC63285A4C+44]
+
+2024-12-27 10:54:32,804 - The browser is closed
